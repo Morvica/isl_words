@@ -1,0 +1,18 @@
+# Virtual environment (IMPORTANT)
+isl_words/
+islwords/Lib/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Datasets
+datasets/
+
+# ML models
+models/
+checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
