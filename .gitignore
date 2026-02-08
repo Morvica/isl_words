@@ -1,6 +1,7 @@
 # Virtual environment (IMPORTANT)
 isl_words/
 islwords/Lib/
+isl_words_env/
 
 # Python cache
 __pycache__/
